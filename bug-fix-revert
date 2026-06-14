@@ -1,3 +1,14 @@
-[main 5a58a86] Revert "Fix typo: correct simple interest formula to p*t*r/100"
- Date: Sun Jun 14 21:19:06 2026 +0700
- 1 file changed, 1 insertion(+), 1 deletion(-)
+$ curl https://api.github.com/repos/real-habibul/github-final-project/pulls
+[
+  {
+    "number": 1,
+    "title": "Fix typo: correct simple interest formula to p*t*r/100",
+    "state": "closed",
+    "head": {
+      "ref": "bug-fix-typo",
+      "repo": {
+        "full_name": "real-habibul/github-final-project"
+      }
+    }
+  }
+]
