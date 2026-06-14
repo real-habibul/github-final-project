@@ -1,3 +1,7 @@
+$ git checkout main
+Switched to branch 'main'
+
+$ git merge bug-fix-typo
 Updating ad95b0a..aa1857e
 Fast-forward
  README.md | 2 +-
