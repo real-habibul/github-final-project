@@ -1,13 +1,13 @@
-$ curl https://api.github.com/repos/real-habibul/github-final-project/pulls
+$ curl https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls
 [
   {
-    "number": 1,
-    "title": "Fix typo: correct simple interest formula to p*t*r/100",
+    "number": 8506,
+    "title": "Revert typo fix",
     "state": "closed",
     "head": {
-      "ref": "bug-fix-typo",
+      "ref": "bug-fix-revert",
       "repo": {
-        "full_name": "real-habibul/github-final-project"
+        "full_name": "real-habibul/mcino-Introduction-to-Git-and-GitHub"
       }
     }
   }
